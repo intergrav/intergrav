@@ -8,7 +8,7 @@ My name is Devin. I make random stuff on here sometimes.
 
 ### Discord Themes
 
-![Pop](https://github-readme-stats.vercel.app/api/pin/?username=devinkid1&repo=Pop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devinkid1&repo=Pop)](https://github.com/devinkid1/Pop)
 
 ## Some stats
 
