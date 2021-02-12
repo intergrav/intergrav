@@ -4,8 +4,12 @@ My name is Devin. I make random stuff on here sometimes.
 
 ## What I am working on
 
-### Pop
+### Discord Themes
 
-A Powercord/BetterDiscord theme that makes UI elements "pop out".
-- Page: https://devinkid1.github.io/Pop/
-- Repository: https://github.com/devinkid1/Pop
+![Pop](https://github-readme-stats.vercel.app/api/pin/?username=devinkid1&repo=Pop)
+
+## Some stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devinkid1)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devinkid1)
