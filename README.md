@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**devinkid1/devinkid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Devin. I make random stuff on here sometimes.
 
-Here are some ideas to get you started:
+## What I am working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Discord Themes
+
+#### Pop
+
+A Powercord/BetterDiscord theme that makes UI elements "pop out".
+- Page: https://devinkid1.github.io/Pop/
+- Repository: https://github.com/devinkid1/Pop
