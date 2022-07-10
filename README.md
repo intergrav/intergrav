@@ -1,7 +1,3 @@
-# Hello!
-
-My name is Devin. I make random stuff on here sometimes.
-
 ## What I am working on
 
 ### Minecraft Modpacks
