@@ -1,9 +1,22 @@
+## Hello!
+I am Devin!
+
+## My Priorities
+This is the list of the things I am working on the most/least. Projects that are lower on this list are ones I wont maintain as often.
+- [Adrenaline](https://github.com/intergrav/Adrenaline)
+- [Additive](https://github.com/intergrav/Additive)
+- [Hammer](https://github.com/intergrav/Hammer)
+- [Pop](https://github.com/intergrav/Pop) (no longer actively maintained)
+- [Sky3D](https://github.com/intergrav/Sky3D) (no longer actively maintained)
+- [UPanel](https://github.com/intergrav/UPanel) (no longer maintained)
+
 ## What I am working on
 
 ### Minecraft Modpacks
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intergrav&repo=Adrenaline)](https://github.com/intergrav/Adrenaline)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intergrav&repo=Additive)](https://github.com/intergrav/Additive)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intergrav&repo=Hammer)](https://github.com/intergrav/Hammer)
 
 ### Discord Themes
 
