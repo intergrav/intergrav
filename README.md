@@ -16,7 +16,6 @@ This is the list of the things I am working on the most/least. Projects that are
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intergrav&repo=Adrenaline)](https://github.com/intergrav/Adrenaline)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intergrav&repo=Additive)](https://github.com/intergrav/Additive)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intergrav&repo=Hammer)](https://github.com/intergrav/Hammer)
 
 ### Discord Themes
 
