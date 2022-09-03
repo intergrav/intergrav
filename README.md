@@ -1,21 +1,11 @@
 ## Hello!
 I am Devin!
 
-## My Priorities
-This is the list of the things I am working on the most/least. Projects that are lower on this list are ones I wont maintain as often.
-- [Adrenaline](https://github.com/intergrav/Adrenaline)
-- [Additive](https://github.com/intergrav/Additive)
-- [Pop](https://github.com/intergrav/Pop) (no longer actively maintained)
-- [Sky3D](https://github.com/intergrav/Sky3D) (no longer actively maintained)
-- [Hammer](https://github.com/intergrav/Hammer) (no longer maintained)
-- [UPanel](https://github.com/intergrav/UPanel) (no longer maintained)
-
 ## What I am working on
-
 Most of my stuff is on my [website](https://intergrav.github.io/).
 
 ## Some stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=intergrav)
+![Devin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=intergrav&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intergrav)
+![Devin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intergrav&theme=dark)
