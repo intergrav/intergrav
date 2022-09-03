@@ -12,14 +12,7 @@ This is the list of the things I am working on the most/least. Projects that are
 
 ## What I am working on
 
-### Minecraft Modpacks
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intergrav&repo=Adrenaline)](https://github.com/intergrav/Adrenaline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intergrav&repo=Additive)](https://github.com/intergrav/Additive)
-
-### Discord Themes
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=intergrav&repo=Pop)](https://github.com/intergrav/Pop)
+Most of my stuff is on my [website](https://intergrav.github.io/).
 
 ## Some stats
 
