@@ -12,16 +12,16 @@ If a project is marked with a red circle, that means I am no longer maintaining 
 
 Sadly I do not have too much free time, so I won't be able to work on much at a time. Feel free to fork any of these projects and keep on maintaining them - most of the stuff I work on is open source.
 
-## 🟢 <a href="https://github.com/intergrav/Adrenaline"><img alt="Adrenaline Logo" src="https://github.com/intergrav/Branding/blob/main/adrenaline/adrenaline_textlogo_256h.png" height="50"></a>
+## 🟢 <a href="https://github.com/intergrav/Adrenaline"><img alt="Adrenaline" src="https://github.com/intergrav/Branding/blob/main/adrenaline/adrenaline_text_256h.png" height="23"></a>
 Adrenaline is a minimal, base performance layer for Minecraft that tries to make the game as fast as possible.
 
-## 🟢 <a href="https://github.com/intergrav/Additive"><img alt="Additive Logo" src="https://github.com/intergrav/Branding/blob/main/additive/additive_textlogo_256h.png" height="44"></a>
+## 🟢 <a href="https://github.com/intergrav/Additive"><img alt="Additive" src="https://github.com/intergrav/Branding/blob/main/additive/additive_text_256h.png" height="23"></a>
 Additive is a simple, super-fast Optifine alternative modpack for Minecraft.
 
-## 🔴 <a href="https://github.com/intergrav/Hammer"><img alt="Hammer Logo" src="https://github.com/intergrav/Branding/blob/main/hammer/hammer_textlogo_256h.png" height="46"></a>
+## 🔴 <a href="https://github.com/intergrav/Hammer"><img alt="Hammer" src="https://github.com/intergrav/Branding/blob/main/hammer/hammer_text_256h.png" height="23"></a>
 Hammer is a minimal, base performance layer for Minecraft running on Forge.
 
-## 🔴 <a href="https://github.com/intergrav/Modrinth-Extra"><img alt="Modrinth Extra Logo" src="https://github.com/intergrav/Branding/blob/main/modrinthextra/dark_darker_textbig_48h.png" height="20"></a>
+## 🔴 <a href="https://github.com/intergrav/Modrinth-Extra"><img alt="Modrinth Extra" src="https://github.com/intergrav/Branding/blob/main/modrinthextra/dark_darker_textbig_48h.png" height="20"></a>
 Open source extension that adds extra animations and features to the Modrinth website.
 
 ## 🔴 [Sky3D](https://github.com/intergrav/Sky3D)
@@ -30,5 +30,5 @@ Sky3D is a Roblox module for quickly creating custom 3D skies.
 ## 🔴 [UPanel](https://github.com/intergrav/UPanel)
 UPanel is a highly customizable admin panel for Roblox.
 
-# ❓ Others
+# ❓ Other Stuff
 Need any of my branding for referencing me or any of my projects? Most of it will be [here](https://github.com/intergrav/Branding).
