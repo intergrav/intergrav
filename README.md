@@ -21,7 +21,7 @@ Additive is a simple, super-fast Optifine alternative modpack for Minecraft.
 ## 🔴 <a href="https://github.com/intergrav/Hammer"><img alt="Hammer Logo" src="https://github.com/intergrav/Branding/blob/main/hammer/hammer_textlogo_256h.png" height="46"></a>
 Hammer is a minimal, base performance layer for Minecraft running on Forge.
 
-## 🔴 <a href="https://github.com/intergrav/Modrinth-Extra"><img alt="Modrinth Extra Logo" src="https://github.com/intergrav/Branding/blob/main/modrinthextra/dark_darker_textbig_48h.png" height="21"></a>
+## 🔴 <a href="https://github.com/intergrav/Modrinth-Extra"><img alt="Modrinth Extra Logo" src="https://github.com/intergrav/Branding/blob/main/modrinthextra/dark_darker_textbig_48h.png" height="20"></a>
 Open source extension that adds extra animations and features to the Modrinth website.
 
 ## 🔴 [Sky3D](https://github.com/intergrav/Sky3D)
