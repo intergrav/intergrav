@@ -36,4 +36,4 @@ UPanel is a highly customizable admin panel for Roblox.
 Need any of my branding for referencing me or any of my projects? Most of it will be [here](https://github.com/intergrav/Branding).
 
 # 🎶 Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7a587u5vmof8dapnngckc60ij&cover_image=true&theme=natemoo-re&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7a587u5vmof8dapnngckc60ij&cover_image=true&theme=natemoo-re&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=7a587u5vmof8dapnngckc60ij&redirect=true)
