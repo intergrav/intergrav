@@ -1,4 +1,4 @@
-![(Adventure Time snail on the left) Hi! I'm Devin! I am learning music, programming, visual design and animation.](https://github.com/intergrav/Branding/blob/main/personal/profile/profile_card_512h.png)
+![Hi! I'm Devin! I am learning music, programming, visual design and animation.](https://raw.githubusercontent.com/intergrav/Branding/main/personal/profile/profile_card_512h.png)
 
 # 📰 About Me
 Hello, my name is Devin! Most people may know me as UltraStorm or intergrav. I do programming, music, visual design, and animation sometimes. I am currently working on a badge library, 2 Minecraft modpacks, and learning a few programming languages. I am also working on my new album, A Light in the Sky.
