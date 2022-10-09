@@ -34,3 +34,5 @@ UPanel is a highly customizable admin panel for Roblox.
 
 # ❓ Other Stuff
 Need any of my branding for referencing me or any of my projects? Most of it will be [here](https://github.com/intergrav/Branding).
+
+<div align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fintergrav&count_bg=%23304057&title_bg=%23304057&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></div>
