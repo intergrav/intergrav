@@ -1,5 +1,7 @@
 ![Hi! I'm Devin! I am learning music, programming, visual design and animation.](https://raw.githubusercontent.com/intergrav/Branding/main/personal/profile/profile_card_512h.png)
 
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="384">
+
 # 📰 About Me
 Hello, my name is Devin! Most people may know me as UltraStorm or intergrav. I do programming, music, visual design, and animation sometimes. I am currently working on a badge library, 2 Minecraft modpacks, and learning a few programming languages. I am also working on my new album, A Light in the Sky.
 
@@ -34,7 +36,5 @@ UPanel is a highly customizable admin panel for Roblox.
 
 # ❓ Other Stuff
 Need any of my branding for referencing me or any of my projects? Most of it will be [here](https://github.com/intergrav/Branding).
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <div align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fintergrav&count_bg=%23304057&title_bg=%23304057&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></div>
