@@ -37,8 +37,8 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_people: yes
-          plugin_people_limit: 32
-          plugin_people_size: 24
+          plugin_people_limit: 24
+          plugin_people_size: 32
           plugin_people_types: followers, following
           plugin_stars: yes
           plugin_stars_limit: 2
