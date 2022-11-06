@@ -6,7 +6,7 @@
 Hello, my name is Devin! Most people may know me as UltraStorm or intergrav. I do programming, music, visual design, and animation sometimes. I am currently working on a badge library, 2 Minecraft modpacks, and learning a few programming languages. I am also working on my new album, A Light in the Sky.
 
 # 👋 Social Links
-[Discord](https://discord.com/users/418219211043897344) ([Projects Community](https://discord.gg/36Tv44cYte)), [YouTube](https://youtube.com/c/UltraStorm), [GitHub](https://github.com/intergrav), <a rel="nofollow me" class="Link--primary" href="https://mas.to/@intergrav">Mastodon</a>, [Modrinth](https://modrinth.com/user/UltraStorm), [Bandcamp](https://ultrastorm.bandcamp.com/), [Twitter](https://twitter.com/Ultr4Storm), [Roblox](https://roblox.com/users/35643110/profile/)
+[Discord](https://discord.com/users/418219211043897344) ([Projects Community](https://discord.gg/36Tv44cYte)), [YouTube](https://youtube.com/c/UltraStorm), [GitHub](https://github.com/intergrav), <a rel="me" href="https://mas.to/@intergrav">Mastodon</a>, [Modrinth](https://modrinth.com/user/UltraStorm), [Bandcamp](https://ultrastorm.bandcamp.com/), [Twitter](https://twitter.com/Ultr4Storm), [Roblox](https://roblox.com/users/35643110/profile/)
 
 # 📝 My Projects
 If a project is marked with a red circle, that means I am no longer maintaining it. However, if it's marked with a green circle, I am currently working on it. 
