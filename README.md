@@ -11,7 +11,7 @@ Hello, my name is Devin! Most people may know me as UltraStorm or intergrav. I d
 # 📝 My Projects
 If a project is marked with a red circle, that means I am no longer maintaining it. However, if it's marked with a green circle, I am currently working on it. 
 
-Sadly I do not have too much free time, so I won't be able to work on much at a time. Feel free to fork any of these projects and keep on maintaining them - most of the stuff I work on is open source.
+I do have a life, so I won't be able to work on too much at a time. Feel free to fork any of these projects and keep on maintaining them - most of the stuff I work on is open source and are under the MIT license.
 
 ## 🟢 [Devin's Badges](https://github.com/intergrav/devins-badges)
 Beautifully designed badges for many services.
