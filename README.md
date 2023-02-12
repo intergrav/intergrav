@@ -17,14 +17,18 @@ Here are a few things I've participated in or maintain. To view all of my projec
 ### [Devin's Badges](https://github.com/intergrav/devins-badges)
 Beautifully designed badges for many services
 
-### <a href="https://github.com/intergrav/Adrenaline"><img alt="Adrenaline" src="https://github.com/intergrav/Branding/blob/main/adrenaline/adrenaline_text_256h.png" height="20"></a>
+### <a href="https://modrinth.com/project/Adrenaline"><img alt="Adrenaline" src="https://github.com/intergrav/Branding/blob/main/adrenaline/adrenaline_text_256h.png" height="20"></a>
 Lightweight performance layer with no extra features attempting to make Minecraft as fast as possible
 
-### <a href="https://github.com/intergrav/Additive"><img alt="Additive" src="https://github.com/intergrav/Branding/blob/main/additive/additive_text_256h.png" height="20"></a>
+### <a href="https://modrinth.com/project/Additive"><img alt="Additive" src="https://github.com/intergrav/Branding/blob/main/additive/additive_text_256h.png" height="20"></a>
 Simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline
 
-### <a href="https://github.com/intergrav/Adrenaserver"><img alt="Adrenaserver" src="https://github.com/intergrav/Branding/blob/main/adrenaserver/adrenaserver_text_256h.png" height="20"></a>
+### <a href="https://modrinth.com/project/Adrenaserver"><img alt="Adrenaserver" src="https://github.com/intergrav/Branding/blob/main/adrenaserver/adrenaserver_text_256h.png" height="20"></a>
 Lightweight base for Fabric and Quilt servers designed to improve server-side performance
+
+### [Unobtrusive Grass](https://modrinth.com/project/unobtrusive-grass)
+
+Minecraft resourcepack that shortens plants such as grass and ferns to make them less obtrusive.
 
 Need any of my branding to reference me or any of my projects? Most of it will be [here](https://github.com/intergrav/Branding).
 
