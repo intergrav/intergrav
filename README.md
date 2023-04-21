@@ -26,6 +26,9 @@ Simple and fast open-source OptiFine alternative for modern loaders based on Adr
 ### <a href="https://modrinth.com/project/Adrenaserver"><img alt="Adrenaserver" src="https://github.com/intergrav/Branding/blob/main/adrenaserver/adrenaserver_text_256h.png" height="20"></a>
 Lightweight base for Fabric and Quilt servers designed to improve server-side performance
 
+### <a href="https://modrinth.com/project/Hammer"><img alt="Hammer" src="https://github.com/intergrav/Branding/blob/main/hammer/hammer_text_256h.png" height="20"></a>
+Lightweight performance layer for Forge with no extra features attempting to make Minecraft as fast as possible
+
 ### [Unobtrusive Grass](https://modrinth.com/project/unobtrusive-grass)
 
 Minecraft resourcepack that shortens plants such as grass and ferns to make them less obtrusive.
