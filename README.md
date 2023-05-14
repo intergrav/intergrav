@@ -8,7 +8,7 @@ My name is Devin! Most people may know me as UltraStorm or intergrav. I do progr
 
 ## Social links
 
-[Discord](https://discord.com/users/418219211043897344) ([Projects Community](https://discord.gg/36Tv44cYte)), [YouTube](https://youtube.com/c/UltraStorm), [GitHub](https://github.com/intergrav), <a rel="me" href="https://floss.social/@intergrav">Mastodon</a>, [Modrinth](https://modrinth.com/user/Devin), [Twitter](https://twitter.com/Ultr4Storm), [Bandcamp](https://ultrastorm.bandcamp.com/)
+[Discord](https://discord.com/users/418219211043897344) ([Projects Community](https://discord.gg/36Tv44cYte)), [YouTube](https://youtube.com/c/UltraStorm), [GitHub](https://github.com/intergrav), <a rel="me" href="https://floss.social/@intergrav">Mastodon</a>, [Modrinth](https://modrinth.com/user/Devin), [Twitter](https://twitter.com/Ultr4Storm)
 
 ## Things I've made or worked on
 
