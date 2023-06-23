@@ -1,5 +1,3 @@
-![Hi! I'm Devin! I am learning music, programming, visual design and animation.](https://raw.githubusercontent.com/intergrav/Branding/main/personal/profile/profile_card_512h.png)
-
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="364">
 
 # 👋 Hello!
