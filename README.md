@@ -2,7 +2,7 @@
 
 # 👋 Hello!
 
-My name is Devin! Most people may know me as UltraStorm or intergrav. I do programming, music, visual design, and animation sometimes. I am currently working on a badge library, 2 Minecraft modpacks, and learning a few programming languages.
+My name is Devin! I enjoy FOSS, music and design. I am currently working on a badge library, 6 Minecraft modpacks, and learning a few programming languages.
 
 ## Social links
 
