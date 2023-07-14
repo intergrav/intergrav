@@ -13,26 +13,25 @@ My name is Devin! I enjoy FOSS, music and design. I am currently working on a ba
 Here are a few things I've participated in or maintain. To view all of my projects, see my repositories.
 
 ### [Devin's Badges](https://github.com/intergrav/devins-badges)
-Beautifully designed badges for many services
+I maintained Devin's Badges, beautifully designed badges for many services
 
 ### <a href="https://modrinth.com/project/Adrenaline"><img alt="Adrenaline" src="https://github.com/intergrav/Branding/blob/main/adrenaline/adrenaline_textlogo_256h.png" height="40"></a>
-Lightweight performance layer with no extra features attempting to make Minecraft as fast as possible
+I maintain Adrenaline, a lightweight performance layer with no extra features attempting to make Minecraft as fast as possible
 
 ### <a href="https://modrinth.com/project/Additive"><img alt="Additive" src="https://github.com/intergrav/Branding/blob/main/additive/additive_textlogo_256h.png" height="36"></a>
-Simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline
+I maintain Additive, a simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline
 
 ### <a href="https://modrinth.com/project/DeckCraft"><img alt="DeckCraft" src="https://github.com/intergrav/Branding/blob/main/deckcraft/wordmark/wordmark_256h.png" height="28"></a>
-Modpack specifically designed and tweaked to give a seamless out-of-box experience on the Steam Deck with big performance improvements, extra features and more
+I maintain DeckCraft, a modpack specifically designed and tweaked to give a seamless out-of-box experience on the Steam Deck with big performance improvements, extra features and more
 
 ### <a href="https://modrinth.com/project/Adrenaserver"><img alt="Adrenaserver" src="https://github.com/intergrav/Branding/blob/main/adrenaserver/adrenaserver_text_256h.png" height="22"></a>
-Lightweight base for Fabric and Quilt servers designed to improve server-side performance
+I maintain Adrenaserver, a lightweight base for Fabric and Quilt servers designed to improve server-side performance
 
 ### <a href="https://modrinth.com/project/Hammer"><img alt="Hammer" src="https://github.com/intergrav/Branding/blob/main/hammer/hammer_textlogo_256h.png" height="38"></a>
-Lightweight performance layer for Forge with no extra features attempting to make Minecraft as fast as possible
+I maintained Hammer, a lightweight performance layer for Forge with no extra features attempting to make Minecraft as fast as possible
 
-### [Unobtrusive Grass](https://modrinth.com/project/unobtrusive-grass)
-
-Minecraft resourcepack that shortens plants such as grass and ferns to make them less obtrusive.
+### [<img alt="Helix" src="https://github.com/HelixLauncher/Art/blob/main/branding/helix-thick/helix-thick_64h.png" height="24">](https://github.com/HelixLauncher/HelixLauncher) [Helix Launcher](https://github.com/HelixLauncher/HelixLauncher)
+I made the art, branding, and design concept for Helix Launcher, an elegant Minecraft launcher built with Rust.
 
 ## Branding
 
