@@ -1,8 +1,8 @@
 # farewell, github (sorta)
 
-at the moment, I am in the process of migrating most of my Git repositories off GitHub and over to [Tangled](https://tangled.org/devins.page). there are various reasons for moving to another Git forge, which i have explained in [a blog post on my website](https://devins.page/blog/moving-from-github).
+at the moment, I am in the process of migrating most of my Git repositories off GitHub and over to [Tangled](https://tangled.org/devins.page).
 
-for certain repositories, such as [devins-badges](https://github.com/intergrav/devins-badges), along with the [SkywardMC](https://github.com/skywardmc) repositories such as Adrenaline and Additive, they will stay on here and I will continue actively working on them here. but most of my personal projects will be on Tangled, including my flake, website, CSS frameworks, and more.
+for certain repositories, such as [devins-badges](https://github.com/intergrav/devins-badges), along with the [SkywardMC](https://github.com/skywardmc) repositories such as Adrenaline and Additive, they will stay on here and I will continue actively working on them here. but most of my personal projects will be on Tangled, including my flake, programs, website, CSS frameworks, and more.
 
 of course, the rest of this account will stay as-is as I don't intend on leaving GitHub entirely. I'll still be contributing to open-source projects here.
 
