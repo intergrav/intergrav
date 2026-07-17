@@ -1,6 +1,6 @@
 # farewell, github (sorta)
 
-at the moment, I am in the process of migrating most of my Git repositories off GitHub and over to [Tangled](https://tangled.org/devins.page).
+I have migrated most of my Git repositories off GitHub and over to [Tangled](https://tangled.org/devins.page).
 
 for certain repositories, such as [devins-badges](https://github.com/intergrav/devins-badges), along with the [SkywardMC](https://github.com/skywardmc) repositories such as Adrenaline and Additive, they will stay on here and I will continue actively working on them here. but most of my personal projects will be on Tangled, including my flake, programs, website, CSS frameworks, and more.
 
